@@ -13,8 +13,10 @@
 
 Combine flour, baking powder, sugar and salt in a bowl. Cut in shortening with a pastry blender (or a fork) until the mixture resembles coarse, rough crumbs. Add milk and mix by hand until just combined with the dry ingredients. The dough will be a somewhat sticky mass.
 
-Drop dough by the spoonful on an ungreased cookie sheet--blobs should be slightly larger than a golf ball.
+Drop dough by large spoonful on an ungreased cookie sheet—blobs should be slightly bigger than a golf ball.
 
-Bake at 425F for 13 minutes.
+Bake at 425°F for 13 minutes.
 
-Makes 12 biscuits.
+## Servings
+
+Makes approximately 12 biscuits.
