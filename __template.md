@@ -10,6 +10,8 @@
 
 {Lorem ipsum dolor sit amet, consectetur adipiscing elit...}
 
+{Bake at X°F for Y minutes.
+
 ## Servings
 
 Makes approximately {N items/portions}.
